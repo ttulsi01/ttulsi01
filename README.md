@@ -1,11 +1,11 @@
-<h1 align="center">Hi there! I'm Tulsi, I turn ideas into code.</h1>
-<h3 align="center">A passionate full-stack developer</h3>
+<h1 align="center">Hi there! I'm Tulsi Tailor.</h1>
+<h3 align="center">A passionate full-stack developer 💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ttulsi01&label=Profile%20views&color=0e75b6&style=flat" alt="ttulsi01" /> </p>
 
 - 👩‍💻 **Full-Stack Developer / Software Developer.**
 
-- 🌱 I’m currently learning **new approaches in frontend development.**
+- 🌱 I’m currently learning **TypeScript, React, and Node.js.**
 
 - 💬 You can get in touch at **tulsitailor01@gmail.com**
 
