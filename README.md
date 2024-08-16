@@ -8,7 +8,9 @@
 - 🌱 I’m currently learning **TypeScript, React, and Node.js.**
 
 - 💬 You can get in touch at **tulsitailor01@gmail.com**
-
+  
+- 🖥️  See my portfolio at [Tulsi Tailor](https://ttulsi01.github.io/)
+  
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1pG_pvkuenUcXAgp13W5Y4gUf2mwGPZ0Z/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
