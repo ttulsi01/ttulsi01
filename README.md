@@ -6,10 +6,6 @@
 - 👩‍💻 **Full-Stack Developer / Software Developer.**
 
 - 🌱 I’m currently learning **TypeScript, React, and Node.js.**
-  
-- 🖥️  See my portfolio at [Tulsi Tailor](https://ttulsi01.github.io/)
-  
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1tfjDRzBr8Cj6jNZgcK4IBw5OTEDXHXcz/view)
 
 - 💬 You can get in touch at **tulsitailor01@gmail.com**
 
